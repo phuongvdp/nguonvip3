@@ -1,5 +1,5 @@
 #EXTM3U
-# Cập nhật lần cuối: 02:29:14 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 02:31:56 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
 # ===== Tất cả trận, sắp theo giờ thi đấu thực — Phá Làng (48 trận) =====
 
@@ -44,7 +44,7 @@ https://lilive1.eu.cc/live/857942f9e7df7e868cd7d87b63feb3a3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://pull.digitalcdn.net/live/bf11164d0590473b97b03362fd3f2bb6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/e8b03b5c083ffa4e9179571b70c1febe.png" group-title="Phá Làng" , 27/09 03:30 ⚽ USA - Peru (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/e8b03b5c083ffa4e9179571b70c1febe.png" group-title="Phá Làng" , 27/09 03:30 🟡 ⚽ USA - Peru (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#k82rekh2znlzrep
 
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/4ee24366d09a9239bb2c4207a5008111.png" group-title="Phá Làng" , 27/09 04:00 ⚽ Atletico Nacional Medellin - Chapecoense - SC (Chưa có link — chờ cập nhật)

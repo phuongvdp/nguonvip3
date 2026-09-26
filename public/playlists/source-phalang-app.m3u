@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 00:50:16 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 00:52:32 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Phá Làng (48 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Phá Làng (47 trận) =====
 
 # ----- Ngày 2026-09-26 -----
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/501402ebbaa8555329c25b52fe79ecb2.png" group-title="Phá Làng" , 26/09 22:55 🟢 ⚽ Kuwait - Iraq (Server 1)
@@ -9,9 +9,6 @@ https://lilive1.eu.cc/live/3535d6025dd4051df5a58d9d9ba83511/playlist.m3u8|User-A
 
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/6cff443cdf72b6dbe440a7814ff9c171.png" group-title="Phá Làng" , 26/09 23:00 🟢 ⚽ Iceland - Estonia (Server 1)
 https://lilive1.eu.cc/live/2d7735cd806cc8b8483f974d881045a7/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/19eeefdc072e675e1be2a9786cfba016.png" group-title="Phá Làng" , 26/09 23:00 🟢 ⚽ Faroe Islands - Kazakhstan (Server 1)
-https://lilive1.eu.cc/live/d65b8f6e0e7541e170d7c43de35babb1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
 
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/61e9ccd0c45b60839c47d792d6ae26f4.crdownload" group-title="Phá Làng" , 26/09 23:00 🟢 ⚽ San Marino - Finland (Server 1)
 https://lilive1.eu.cc/live/b3dd6c04feeb2fb9905fc4cefc977282/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live

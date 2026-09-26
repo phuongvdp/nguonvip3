@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 03:44:12 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 03:46:34 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (17 trận), Khán Đài (11 trận), Chuối Chiên (11 trận), Phá Làng (37 trận), Gà Vàng (17 trận), Sao Kê (22 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (17 trận), Khán Đài (11 trận), Chuối Chiên (11 trận), Phá Làng (36 trận), Gà Vàng (17 trận), Sao Kê (22 trận) =====
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/6961986fd0e44c330328195328a39be4.png" group-title="Gà Vàng" , 27/09 01:00 🟢 ⚽ NAC Breda vs FC Eindhoven (THICHDUTHU)
@@ -12,9 +12,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1790417285_hd/1790417285_hd@720p.m3u8|User-Agen
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_16.jpg" group-title="Khán Đài" , 27/09 01:45 🟢 ⚽ England vs Spain (Chim Nhỏ)
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://khandai3.link
-
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260924/2f44df93c01b04731a3f20f97b8e6b98.png" group-title="Phá Làng" , 27/09 01:45 🟢 ⚽ England - Spain (LÝ LA LÀNG)
-https://lilive1.eu.cc/live/aa4a65751f152bb03758f299a9b32339/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/70fd3d5ba9c841ef932fae2cf0d7f3e7.png" group-title="Gà Vàng" , 27/09 01:45 🟢 ⚽ England vs Spain (CRIS)
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://gavanglinkp.tv/

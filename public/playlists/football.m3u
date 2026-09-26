@@ -1,5 +1,5 @@
 #EXTM3U
-# Cập nhật lần cuối: 03:13:43 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 03:16:10 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
 # ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (17 trận), Khán Đài (15 trận), Chuối Chiên (13 trận), Phá Làng (42 trận), Gà Vàng (19 trận), Sao Kê (22 trận) =====
 
@@ -139,6 +139,11 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713.png" group-title="Sao Kê" , 27/09 03:30 🟢 ⚽ USA vs Peru (Mơ)
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stm6dad62063600.stream.hdplaylink.com/sklive/mo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/usa.png" group-title="Giờ Vàng" , 27/09 03:30 🟡 ⚽ Mỹ vs Peru (Chưa có link — chờ cập nhật)
 https://giovang.city/truc-tiep-my-vs-peru-27-09-6ab1c622354480ad7b00538a
 
@@ -147,9 +152,6 @@ https://phalang.live/trang-chu#k82rekh2znlzrep
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png" group-title="Gà Vàng" , 27/09 03:30 🟡 ⚽ USA vs Peru (Chưa có link — chờ cập nhật)
 https://gavanglinkq.tv/truc-tiep/usa-vs-peru-ngay-27-09-2026/
-
-#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713.png" group-title="Sao Kê" , 27/09 03:30 🟡 ⚽ USA vs Peru (Chưa có link — chờ cập nhật)
-https://vip3.saoketv40.xyz/usa-vs-peru-6ab5c810a98792e63a6feb08.html
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png" group-title="Chuối Chiên" , 27/09 04:00 🟡 ⚽ Deportivo Pereira vs Inter Bogotá (Chưa có link — chờ cập nhật)
 https://live05.chuoichientv.me/live/1549801/deportivo-pereira-vs-inter-bogota

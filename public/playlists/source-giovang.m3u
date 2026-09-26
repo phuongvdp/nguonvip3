@@ -1,5 +1,5 @@
 #EXTM3U
-# Cập nhật lần cuối: 01:56:48 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 01:59:08 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
 # ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (25 trận) =====
 
@@ -19,16 +19,16 @@ https://eqr2hdarxfliv.vcdn.cloud/1790417259_hd/1790417259_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1790417285_hd/1790417285_hd@720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/08/HPz3eAZXcAAocvy.jpeg?quality=90&strip=all&crop=0,10,100,80" group-title="Giờ Vàng" , 27/09 02:00 🟢 ⚽ Rosas Jr. vs Barcelos (Giovang 1)
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-0bvH5S2D.png" group-title="Giờ Vàng" , 27/09 02:00 🟢 🏐 Pháp vs Ba Lan (Giovang 1)
 #EXTVLCOPT:http-referrer=https://giovang.city
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1789368755_hd/1789368755_hd@720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-0bvH5S2D.png" group-title="Giờ Vàng" , 27/09 02:00 🟡 🏐 Pháp vs Ba Lan (Chưa có link — chờ cập nhật)
-https://giovang.city/truc-tiep-phap-vs-ba-lan-27-09-hbapb4sijdis
+https://eqr2hdarxfliv.vcdn.cloud/1790416813_hd/1790416813_hd@720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/usa.png" group-title="Giờ Vàng" , 27/09 03:30 ⚽ Mỹ vs Peru (Chưa có link — chờ cập nhật)
 https://giovang.city/truc-tiep-my-vs-peru-27-09-6ab1c622354480ad7b00538a
+
+#EXTINF:-1 tvg-logo="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/08/HPz3eAZXcAAocvy.jpeg?quality=90&strip=all&crop=0,10,100,80" group-title="Giờ Vàng" , 27/09 04:00 ⚽ Rosas Jr. vs Barcelos (Chưa có link — chờ cập nhật)
+https://giovang.city/truc-tiep-rosas-jr-vs-barcelos-27-09-hbxb5hmfy6ng
 
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/nashville-sc.png" group-title="Giờ Vàng" , 27/09 07:30 ⚽ Nashville SC vs Toronto FC (Chưa có link — chờ cập nhật)
 https://giovang.city/truc-tiep-nashville-sc-vs-toronto-fc-27-09-6aadd0bf24d46db870f287af

@@ -1,9 +1,14 @@
 #EXTM3U
-# Cập nhật lần cuối: 01:24:11 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 01:26:30 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
 # ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (3 trận), Khán Đài (8 trận), Chuối Chiên (7 trận), Phá Làng (4 trận) =====
 
 # ----- Ngày 2026-09-27 -----
+#EXTINF:-1 tvg-logo="https://img0.aiscore.com/volleyball/team/1b9d35a79766c74c5b437184864e1e81.png!w30" group-title="Phá Làng" , 27/09 02:00 🟢 🏐 Pháp - Ba Lan (LÝ LÊN LỬA (Server 1))
+#EXTVLCOPT:http-referrer=https://phalang.live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://pull.digitalcdn.net/live/bf11164d0590473b97b03362fd3f2bb6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-0bvH5S2D.png" group-title="Giờ Vàng" , 27/09 02:00 🟡 🏐 Pháp vs Ba Lan (Chưa có link — chờ cập nhật)
 https://giovang.city/truc-tiep-phap-vs-ba-lan-27-09-hbapb4sijdis
 
@@ -12,9 +17,6 @@ https://khandai3.link/truc-tiep/ba-lan-vs-phap
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên" , 27/09 02:00 🟡 🏐 France vs Poland (Chưa có link — chờ cập nhật)
 https://live05.chuoichientv.me/live/999068/france-vs-poland
-
-#EXTINF:-1 tvg-logo="https://img0.aiscore.com/volleyball/team/1b9d35a79766c74c5b437184864e1e81.png!w30" group-title="Phá Làng" , 27/09 02:00 🟡 🏐 Pháp - Ba Lan (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#373f0b0b4e35406182f4af414eaf1d60
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/OIP_xjljaQl.jpg" group-title="Khán Đài" , 27/09 08:00 🏐 Iran vs Kyrgyzstan (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/iran-vs-kyrgyzstan

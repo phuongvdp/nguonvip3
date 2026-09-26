@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 00:52:32 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 00:54:47 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (25 trận), Khán Đài (24 trận), Chuối Chiên (20 trận), Phá Làng (47 trận), Gà Vàng (20 trận), Sao Kê (22 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (25 trận), Khán Đài (24 trận), Chuối Chiên (19 trận), Phá Làng (45 trận), Gà Vàng (20 trận), Sao Kê (22 trận) =====
 
 # ----- Ngày 2026-09-26 -----
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" group-title="Chuối Chiên" , 26/09 22:02 🟢 🏐 Finland vs Slovenia (Chuối Tây (HD))
@@ -39,11 +39,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1790417174_hd/1790417174_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_704.jpg" group-title="Khán Đài" , 26/09 23:00 🟢 ⚽ Iceland vs Estonia (Pháo Thủ)
-#EXTVLCOPT:http-referrer=https://khandai3.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_701.jpg" group-title="Khán Đài" , 26/09 23:00 🟢 ⚽ San Marino vs Finland (Enzo)
 #EXTVLCOPT:http-referrer=https://khandai3.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -53,21 +48,6 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134250_a98f2608.png" group-title="Chuối Chiên" , 26/09 23:00 🟢 ⚽ Iceland vs Estonia (Chuối Lá (HD))
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/6cff443cdf72b6dbe440a7814ff9c171.png" group-title="Phá Làng" , 26/09 23:00 🟢 ⚽ Iceland - Estonia (Server 1)
-#EXTVLCOPT:http-referrer=https://phalang.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lilive1.eu.cc/live/2d7735cd806cc8b8483f974d881045a7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/61e9ccd0c45b60839c47d792d6ae26f4.crdownload" group-title="Phá Làng" , 26/09 23:00 🟢 ⚽ San Marino - Finland (Server 1)
-#EXTVLCOPT:http-referrer=https://phalang.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lilive1.eu.cc/live/b3dd6c04feeb2fb9905fc4cefc977282/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260923/b0cf33b813cb9b832e7fb18f2a1474e0.png" group-title="Phá Làng" , 26/09 23:00 🟢 ⚽ Bulgaria - Luxembourg (LÝ LÀNG LÁ)
 #EXTVLCOPT:http-referrer=https://phalang.live
@@ -141,6 +121,11 @@ https://phalang.live/trang-chu#y39mp1h67xn2moj
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/6961986fd0e44c330328195328a39be4.png" group-title="Gà Vàng" , 27/09 01:00 🟡 ⚽ NAC Breda vs FC Eindhoven (Chưa có link — chờ cập nhật)
 https://gavanglinkq.tv/truc-tiep/nac-breda-vs-fc-eindhoven-ngay-27-09-2026/
 
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_13.jpg" group-title="Khán Đài" , 27/09 01:45 🟢 ⚽ Czech Republic vs Croatia (Pháo Thủ)
+#EXTVLCOPT:http-referrer=https://khandai3.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/czech-republic.png" group-title="Giờ Vàng" , 27/09 01:45 🟡 ⚽ Cộng hòa Séc vs Croatia (Chưa có link — chờ cập nhật)
 https://giovang.city/truc-tiep-cong-hoa-sec-vs-croatia-27-09-69f7e7425c39b5554409bf45
 
@@ -149,9 +134,6 @@ https://giovang.city/truc-tiep-anh-vs-tay-ban-nha-27-09-69f3f2b74bff4a0c310bf768
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_11.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ North Macedonia vs Switzerland (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/north-macedonia-vs-switzerland-27-09-2026-790831
-
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_13.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ Czech Republic vs Croatia (Chưa có link — chờ cập nhật)
-https://khandai3.link/truc-tiep/czech-republic-vs-croatia-27-09-2026-790878
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_16.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ England vs Spain (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/england-vs-spain-27-09-2026-790879
@@ -527,6 +509,9 @@ https://khandai3.link/truc-tiep/austria-vs-kosovo-27-09-2026-790832
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_7.jpg" group-title="Khán Đài" , 27/09 23:00 ⚽ Denmark vs Wales (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/denmark-vs-wales-27-09-2026-790880
+
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_675.jpg" group-title="Khán Đài" , 27/09 23:00 ⚽ Serbia vs Netherlands (Chưa có link — chờ cập nhật)
+https://khandai3.link/truc-tiep/serbia-vs-netherlands-27-09-2026-790881
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/KI7ZD8ZA-IqzC8wpd.png" group-title="Giờ Vàng" , 27/09 23:59 ⚽ Cincinnati Bengals vs Pittsburgh Steelers (Chưa có link — chờ cập nhật)
 https://giovang.city/truc-tiep-cincinnati-bengals-vs-pittsburgh-steelers-27-09-kaqfpuxsfffk

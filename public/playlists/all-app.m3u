@@ -1,14 +1,11 @@
 #EXTM3U
-# Cập nhật lần cuối: 04:07:29 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 04:09:49 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (24 trận), Khán Đài (18 trận), Chuối Chiên (20 trận), Phá Làng (40 trận), Gà Vàng (16 trận), Sao Kê (20 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (22 trận), Khán Đài (18 trận), Chuối Chiên (20 trận), Phá Làng (40 trận), Gà Vàng (16 trận), Sao Kê (20 trận) =====
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/6961986fd0e44c330328195328a39be4.png" group-title="Gà Vàng" , 27/09 01:00 🟢 ⚽ NAC Breda vs FC Eindhoven (THICHDUTHU)
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://gavanglinkp.tv/
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/england.png" group-title="Giờ Vàng" , 27/09 01:45 🟢 ⚽ Anh vs Tây Ban Nha (Giovang 1)
-https://eqr2hdarxfliv.vcdn.cloud/1790417285_hd/1790417285_hd@720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://giovang.city
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/70fd3d5ba9c841ef932fae2cf0d7f3e7.png" group-title="Gà Vàng" , 27/09 01:45 🟢 ⚽ England vs Spain (CRIS)
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://gavanglinkp.tv/
@@ -24,9 +21,6 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|User-Agent=Moz
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/445f0bbb49694464b0fee3b1cbdfdafc.png" group-title="Gà Vàng" , 27/09 01:45 🟢 ⚽ Czechia vs Croatia (GIàng A Dân)
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://gavanglinkp.tv/
-
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-0bvH5S2D.png" group-title="Giờ Vàng" , 27/09 02:00 🟢 🏐 Pháp vs Ba Lan (Giovang 1)
-https://eqr2hdarxfliv.vcdn.cloud/1790416813_hd/1790416813_hd@720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://giovang.city
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/OIP_uiH5uS2.jpg" group-title="Khán Đài" , 27/09 02:00 🟢 🏐 Ba Lan vs Pháp (KaKa)
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://khandai3.link

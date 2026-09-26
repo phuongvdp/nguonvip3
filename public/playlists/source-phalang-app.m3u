@@ -1,5 +1,5 @@
 #EXTM3U
-# Cập nhật lần cuối: 01:42:53 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 01:45:12 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
 # ===== Tất cả trận, sắp theo giờ thi đấu thực — Phá Làng (45 trận) =====
 
@@ -10,20 +10,20 @@ https://lilive1.eu.cc/live/07d177693712b711844c6fd148271dc6/playlist.m3u8|User-A
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260924/3c1271a9437d31009c4fe465d81cd3cf.png" group-title="Phá Làng" , 27/09 01:00 🟢 ⚽ Oman - Saudi Arabia (LÝ LINH LỰC)
 https://lilive1.eu.cc/live/cfcda7f47d63aec6f4ca7e5eb2d21623/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
 
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/78e57b771bb363598680a056a7d26c0a.png" group-title="Phá Làng" , 27/09 01:45 🟢 ⚽ North Macedonia - Switzerland (Server 1)
+https://lilive1.eu.cc/live/1ffe192a0291eb61638254962559df7a/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
+
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/969705867d164cccd13e35c27610576c.png" group-title="Phá Làng" , 27/09 01:45 🟢 ⚽ Albania - Belarus (Server 1)
+https://lilive1.eu.cc/live/551abbdb1bf07c40ff3a8bdbeee02ffd/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
+
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260924/f730b9b10a94674f9c327b017b5bca30.png" group-title="Phá Làng" , 27/09 01:45 🟢 ⚽ Czechia - Croatia (LÝ LONG)
 https://lilive1.eu.cc/live/30e166871f6fbb63bd031bece12d3577/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
 
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260924/2f44df93c01b04731a3f20f97b8e6b98.png" group-title="Phá Làng" , 27/09 01:45 🟢 ⚽ England - Spain (LÝ LA LÀNG)
 https://lilive1.eu.cc/live/aa4a65751f152bb03758f299a9b32339/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/78e57b771bb363598680a056a7d26c0a.png" group-title="Phá Làng" , 27/09 01:45 🟡 ⚽ North Macedonia - Switzerland (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#1l4rjnh9nol1m7v
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/969705867d164cccd13e35c27610576c.png" group-title="Phá Làng" , 27/09 01:45 🟡 ⚽ Albania - Belarus (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#23xmvkh6y10vqg8
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/3dd52d0f4d9de58ccdd0e54e70600884.png" group-title="Phá Làng" , 27/09 01:45 🟡 ⚽ Slovakia - Moldova (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#zp5rzghg3vwjq82
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/3dd52d0f4d9de58ccdd0e54e70600884.png" group-title="Phá Làng" , 27/09 01:45 🟢 ⚽ Slovakia - Moldova (Server 1)
+https://lilive1.eu.cc/live/f98a4b3ea9c3bba1d4fdb97b36628f9a/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
 
 #EXTINF:-1 tvg-logo="https://img0.aiscore.com/volleyball/team/1b9d35a79766c74c5b437184864e1e81.png!w30" group-title="Phá Làng" , 27/09 02:00 🟢 🏐 Pháp - Ba Lan (LÝ LÊN LỬA (Server 1))
 https://pull.digitalcdn.net/live/bf11164d0590473b97b03362fd3f2bb6/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live

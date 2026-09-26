@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 01:42:52 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 01:45:12 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (23 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (26 trận) =====
 
 # ----- Ngày 2026-09-26 -----
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/Ch6tZ7jl-0hu4VHO8.png" group-title="Giờ Vàng" , 26/09 23:00 🟢 🏀 Bilbao vs Manresa (Giovang 1)
@@ -73,3 +73,13 @@ https://giovang.city/truc-tiep-serbia-vs-ha-lan-27-09-69f2a1a2bb398665fd0908db
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/KI7ZD8ZA-IqzC8wpd.png" group-title="Giờ Vàng" , 27/09 23:59 ⚽ Cincinnati Bengals vs Pittsburgh Steelers (Chưa có link — chờ cập nhật)
 https://giovang.city/truc-tiep-cincinnati-bengals-vs-pittsburgh-steelers-27-09-kaqfpuxsfffk
+
+# ----- Ngày 2026-09-28 -----
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/israel.png" group-title="Giờ Vàng" , 28/09 01:45 ⚽ Israel vs Ireland (Chưa có link — chờ cập nhật)
+https://giovang.city/truc-tiep-israel-vs-ireland-28-09-69f695d673ba0b335e0f2ed0
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/germany.png" group-title="Giờ Vàng" , 28/09 01:45 ⚽ Đức vs Hy Lạp (Chưa có link — chờ cập nhật)
+https://giovang.city/truc-tiep-duc-vs-hy-lap-28-09-69f3f2b74bff4a0c310bf762
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/norway.png" group-title="Giờ Vàng" , 28/09 01:45 ⚽ Na Uy vs Bồ Đào Nha (Chưa có link — chờ cập nhật)
+https://giovang.city/truc-tiep-na-uy-vs-bo-dao-nha-28-09-69f544134f51b3673a06914e

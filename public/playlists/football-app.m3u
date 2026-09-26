@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 03:48:54 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 03:51:13 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (17 trận), Khán Đài (10 trận), Chuối Chiên (13 trận), Phá Làng (36 trận), Gà Vàng (17 trận), Sao Kê (22 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (17 trận), Khán Đài (10 trận), Chuối Chiên (13 trận), Phá Làng (36 trận), Gà Vàng (17 trận), Sao Kê (19 trận) =====
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/6961986fd0e44c330328195328a39be4.png" group-title="Gà Vàng" , 27/09 01:00 🟢 ⚽ NAC Breda vs FC Eindhoven (THICHDUTHU)
@@ -24,15 +24,6 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|User-Agent=Moz
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/445f0bbb49694464b0fee3b1cbdfdafc.png" group-title="Gà Vàng" , 27/09 01:45 🟢 ⚽ Czechia vs Croatia (GIàng A Dân)
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://gavanglinkp.tv/
-
-#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8491.png" group-title="Sao Kê" , 27/09 01:45 🟢 ⚽ England vs Spain (Ricky)
-https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://sk.mediastation.live/
-
-#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8260.png" group-title="Sao Kê" , 27/09 01:45 🟢 ⚽ North Macedonia vs Switzerland (Cà Rốt)
-https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://sk.mediastation.live/
-
-#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8496.png" group-title="Sao Kê" , 27/09 01:45 🟢 ⚽ Czechia vs Croatia (Củ Cải)
-https://stm6dad62063600.stream.hdplaylink.com/sklive/cucai/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://sk.mediastation.live/
 
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png" group-title="Phá Làng" , 27/09 02:00 🟢 ⚽ Estudiantes La Plata - CA Rosario Central (Server 1)
 https://lilive1.eu.cc/live/857942f9e7df7e868cd7d87b63feb3a3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live

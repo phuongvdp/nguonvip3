@@ -1,13 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 00:59:20 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 01:01:36 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
 # ===== Tất cả trận, sắp theo giờ thi đấu thực — Khán Đài (22 trận) =====
-
-# ----- Ngày 2026-09-26 -----
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/download_ky44Uf7.png" group-title="Khán Đài" , 26/09 22:55 🟢 ⚽ Kuwait vs Iraq (Kền Kền)
-#EXTVLCOPT:http-referrer=https://khandai3.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_649.jpg" group-title="Khán Đài" , 27/09 01:00 🟢 ⚽ Oman vs Saudi Arabia (Tày)
@@ -35,7 +29,7 @@ https://khandai3.link/truc-tiep/slovakia-vs-moldova-27-09-2026-790927
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_16.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ England vs Spain (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/england-vs-spain-27-09-2026-161009
 
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/OIP_uiH5uS2.jpg" group-title="Khán Đài" , 27/09 02:00 🏐 Ba Lan vs Pháp (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/OIP_uiH5uS2.jpg" group-title="Khán Đài" , 27/09 02:00 🟡 🏐 Ba Lan vs Pháp (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/ba-lan-vs-phap
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/OIP_xjljaQl.jpg" group-title="Khán Đài" , 27/09 08:00 🏐 Iran vs Kyrgyzstan (Chưa có link — chờ cập nhật)
@@ -76,3 +70,7 @@ https://khandai3.link/truc-tiep/denmark-vs-wales-27-09-2026-790880
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_675.jpg" group-title="Khán Đài" , 27/09 23:00 ⚽ Serbia vs Netherlands (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/serbia-vs-netherlands-27-09-2026-790881
+
+# ----- Ngày 2026-09-28 -----
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_643.jpg" group-title="Khán Đài" , 28/09 01:00 ⚽ Bahrain vs United Arab Emirates (Chưa có link — chờ cập nhật)
+https://khandai3.link/truc-tiep/bahrain-vs-united-arab-emirates-28-09-2026-857563

@@ -1,16 +1,13 @@
 #EXTM3U
-# Cập nhật lần cuối: 00:59:20 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 01:01:36 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Phá Làng (43 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Phá Làng (44 trận) =====
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260924/3c1271a9437d31009c4fe465d81cd3cf.png" group-title="Phá Làng" , 27/09 01:00 🟢 ⚽ Oman - Saudi Arabia (LÝ LINH LỰC)
 #EXTVLCOPT:http-referrer=https://phalang.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lilive1.eu.cc/live/cfcda7f47d63aec6f4ca7e5eb2d21623/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/ad471f230297d355466e07cd82408d24.png" group-title="Phá Làng" , 27/09 01:00 🟡 ⚽ Pinatar CF - Atletico Melilla (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#y39mp1h67xn2moj
 
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/78e57b771bb363598680a056a7d26c0a.png" group-title="Phá Làng" , 27/09 01:45 🟡 ⚽ North Macedonia - Switzerland (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#1l4rjnh9nol1m7v
@@ -27,13 +24,13 @@ https://phalang.live/trang-chu#n54qllhn4g1vqvy
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/3dd52d0f4d9de58ccdd0e54e70600884.png" group-title="Phá Làng" , 27/09 01:45 🟡 ⚽ Slovakia - Moldova (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#zp5rzghg3vwjq82
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/8dd0a71a0a004e6890cd4f65d4049e15.png" group-title="Phá Làng" , 27/09 02:00 ⚽ Ajolotes Lerma FC - Artesanos Huixquilucan (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/8dd0a71a0a004e6890cd4f65d4049e15.png" group-title="Phá Làng" , 27/09 02:00 🟡 ⚽ Ajolotes Lerma FC - Artesanos Huixquilucan (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#318q66h8zgw9qo9
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png" group-title="Phá Làng" , 27/09 02:00 ⚽ Estudiantes La Plata - CA Rosario Central (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png" group-title="Phá Làng" , 27/09 02:00 🟡 ⚽ Estudiantes La Plata - CA Rosario Central (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#318q66h8zj37qo9
 
-#EXTINF:-1 tvg-logo="https://img0.aiscore.com/volleyball/team/1b9d35a79766c74c5b437184864e1e81.png!w30" group-title="Phá Làng" , 27/09 02:00 🏐 Pháp - Ba Lan (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img0.aiscore.com/volleyball/team/1b9d35a79766c74c5b437184864e1e81.png!w30" group-title="Phá Làng" , 27/09 02:00 🟡 🏐 Pháp - Ba Lan (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#373f0b0b4e35406182f4af414eaf1d60
 
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/e8b03b5c083ffa4e9179571b70c1febe.png" group-title="Phá Làng" , 27/09 03:30 ⚽ USA - Peru (Chưa có link — chờ cập nhật)
@@ -134,3 +131,9 @@ https://phalang.live/trang-chu#dbc39f081e1145fc926983280a742999
 
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/8fca1fffae59337b22952101b1c22dd1.png" group-title="Phá Làng" , 27/09 15:00 ⚽ INAC Kobe Leonessa - Sanfrecce Hiroshima Regina (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#8yomo4h1no15q0j
+
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/aaf7ff777567dba636caf52a05a45c31.png" group-title="Phá Làng" , 27/09 16:00 ⚽ Dong Thap - Thai Nguyen (Chưa có link — chờ cập nhật)
+https://phalang.live/trang-chu#1l4rjnh9voy2m7v
+
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/e3eeed340658b68dc6b1cc2997997954.png" group-title="Phá Làng" , 27/09 16:00 ⚽ Cerezo Osaka Sakai - NTV Tokyo Verdy Beleza (Chưa có link — chờ cập nhật)
+https://phalang.live/trang-chu#6ypq3nhvxovgmd7

@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 03:58:11 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 04:00:31 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (17 trận), Khán Đài (10 trận), Chuối Chiên (13 trận), Phá Làng (36 trận), Gà Vàng (17 trận), Sao Kê (19 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Giờ Vàng (17 trận), Khán Đài (10 trận), Chuối Chiên (13 trận), Phá Làng (35 trận), Gà Vàng (16 trận), Sao Kê (20 trận) =====
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/6961986fd0e44c330328195328a39be4.png" group-title="Gà Vàng" , 27/09 01:00 🟢 ⚽ NAC Breda vs FC Eindhoven (THICHDUTHU)
@@ -25,9 +25,6 @@ https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8|User-Agent=Moz
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/445f0bbb49694464b0fee3b1cbdfdafc.png" group-title="Gà Vàng" , 27/09 01:45 🟢 ⚽ Czechia vs Croatia (GIàng A Dân)
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://gavanglinkp.tv/
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png" group-title="Phá Làng" , 27/09 02:00 🟢 ⚽ Estudiantes La Plata - CA Rosario Central (Server 1)
-https://lilive1.eu.cc/live/857942f9e7df7e868cd7d87b63feb3a3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
-
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/d10de41c21595dcf71ffbf4c3c105660.png" group-title="Gà Vàng" , 27/09 02:30 🟢 ⚽ Operario Ferroviario PR vs Ceara (RIO)
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://gavanglinkp.tv/
 
@@ -43,28 +40,13 @@ https://stm6dad62063600.stream.hdplaylink.com/sklive/mo/playlist.m3u8|User-Agent
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png" group-title="Chuối Chiên" , 27/09 04:00 🟢 ⚽ Deportivo Pereira vs Inter Bogotá (Trốc Tru (HD))
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/78f326c7941d628362757ab7100fa90e.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ Ejidatarios de Bonfil - Deportiva Venados II (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#1l4rjnhnyl4dm7v
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/d298e8edb123d3b33a3ca6482a3405a5.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ Selva Canera - Zapata (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#2y8m4zhv0p6zql0
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5b62256420bbf1a6c1a1ac3f56fe3483.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ Antequera FC - FC Iguanas (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#dj2ryoh7vx1gq1z
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/46a8a3c928f0ff956dea151a9a20fff1.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ PDLA FC - Deportivo Yautepec FC (Chưa có link — chờ cập nhật)
-https://phalang.live/trang-chu#l7oqdehjy3o4r51
-
-#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/d82c6b70b6fa098483e9afa0589bd7b1.png" group-title="Gà Vàng" , 27/09 04:00 🟡 ⚽ Deportivo Pereira vs La Equidad (Chưa có link — chờ cập nhật)
-https://gavanglinkq.tv/truc-tiep/deportivo-pereira-vs-internacional-de-bogota-ngay-27-09-2026/
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/7f961e07c13dca97fb55f0b47bf5e2b3.png" group-title="Phá Làng" , 27/09 05:00 ⚽ Santa Ana del Conde - Real Olmeca Sport (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/7f961e07c13dca97fb55f0b47bf5e2b3.png" group-title="Phá Làng" , 27/09 05:00 🟡 ⚽ Santa Ana del Conde - Real Olmeca Sport (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#4jwq2ghgo9edm0v
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/bba215fb3e67559a623d73cb32a886ab.png" group-title="Phá Làng" , 27/09 05:00 ⚽ Champs FC - AFF Guatemala (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/bba215fb3e67559a623d73cb32a886ab.png" group-title="Phá Làng" , 27/09 05:00 🟡 ⚽ Champs FC - AFF Guatemala (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#8yomo4hye47pq0j
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/d69bb3a97b9d86528a043d708db33400.png" group-title="Phá Làng" , 27/09 05:00 ⚽ Titanes de Queretaro - Bucaneros de Matamoros (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/d69bb3a97b9d86528a043d708db33400.png" group-title="Phá Làng" , 27/09 05:00 🟡 ⚽ Titanes de Queretaro - Bucaneros de Matamoros (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#ednm9wh58074ryo
 
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/2addd50487c8f61276d5fff8714f6a5c.png" group-title="Gà Vàng" , 27/09 05:50 ⚽ Cruz Azul vs Toluca (Chưa có link — chờ cập nhật)
@@ -247,6 +229,18 @@ https://vip3.saoketv40.xyz/japan-vs-uzbekistan-6ab5ca2dc42f6f76b699fb7a.html
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png" group-title="Chuối Chiên" , 27/09 19:00 ⚽ Valladolid vs Cordoba (Chưa có link — chờ cập nhật)
 https://live05.chuoichientv.me/live/1569947/valladolid-vs-cordoba
 
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/e8327d4681b4a73c83be9fe087b30721.png" group-title="Phá Làng" , 27/09 19:00 ⚽ Shanghai Shenhua - Zenit St. Petersburg (Chưa có link — chờ cập nhật)
+https://phalang.live/trang-chu#1l4rjnh9o7pem7v
+
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/fdf63461c00668597319a4f0db14dcee.png" group-title="Phá Làng" , 27/09 19:00 ⚽ Real Valladolid CF - Cordoba (Chưa có link — chờ cập nhật)
+https://phalang.live/trang-chu#2y8m4zh59x4dql0
+
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/f2925f97bc13ad2852a7a551802feea0.jpg" group-title="Phá Làng" , 27/09 19:00 ⚽ Seychelles - Sri Lanka (Chưa có link — chờ cập nhật)
+https://phalang.live/trang-chu#dj2ryoh7v58dq1z
+
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/3d44285b3ea2ff20d72778ad3245cf70.png" group-title="Phá Làng" , 27/09 19:00 ⚽ CSKA Moscow - FC Pari Nizhniy Novgorod (Chưa có link — chờ cập nhật)
+https://phalang.live/trang-chu#n54qllh4516yqvy
+
 #EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10281.png" group-title="Sao Kê" , 27/09 19:00 ⚽ Real Valladolid vs Córdoba (Chưa có link — chờ cập nhật)
 https://vip3.saoketv40.xyz/real-valladolid-vs-cordoba-6ab777191883d81208dbbbb1.html
 
@@ -340,3 +334,6 @@ https://vip3.saoketv40.xyz/norway-vs-portugal-6ab777191883d81208dbbbaf.html
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/dUe4S2il-40MWbKRi.png" group-title="Giờ Vàng" , 28/09 03:25 ⚽ Baltimore Ravens vs Dallas Cowboys (Chưa có link — chờ cập nhật)
 https://giovang.city/truc-tiep-baltimore-ravens-vs-dallas-cowboys-28-09-clrkfsdy3sqv
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/424270.png" group-title="Sao Kê" , 28/09 04:00 ⚽ CD Jaguares vs Alianza FC (Chưa có link — chờ cập nhật)
+https://vip3.saoketv40.xyz/cd-jaguares-vs-alianza-fc-6ab777191883d81208dbbbab.html

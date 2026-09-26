@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 03:58:13 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 04:00:33 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Sao Kê (19 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Sao Kê (20 trận) =====
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6713.png" group-title="Sao Kê" , 27/09 03:30 🟢 ⚽ USA vs Peru (Mơ)
@@ -61,3 +61,6 @@ https://vip3.saoketv40.xyz/germany-vs-greece-6ab777191883d81208dbbbae.html
 
 #EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8492.png" group-title="Sao Kê" , 28/09 01:45 ⚽ Norway vs Portugal (Chưa có link — chờ cập nhật)
 https://vip3.saoketv40.xyz/norway-vs-portugal-6ab777191883d81208dbbbaf.html
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/424270.png" group-title="Sao Kê" , 28/09 04:00 ⚽ CD Jaguares vs Alianza FC (Chưa có link — chờ cập nhật)
+https://vip3.saoketv40.xyz/cd-jaguares-vs-alianza-fc-6ab777191883d81208dbbbab.html

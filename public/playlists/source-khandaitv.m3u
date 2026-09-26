@@ -1,5 +1,5 @@
 #EXTM3U
-# Cập nhật lần cuối: 00:43:29 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 00:45:44 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
 # ===== Tất cả trận, sắp theo giờ thi đấu thực — Khán Đài (24 trận) =====
 
@@ -30,22 +30,22 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_11.jpg" group-title="Khán Đài" , 27/09 01:45 ⚽ North Macedonia vs Switzerland (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_11.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ North Macedonia vs Switzerland (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/north-macedonia-vs-switzerland-27-09-2026-790831
 
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_13.jpg" group-title="Khán Đài" , 27/09 01:45 ⚽ Czech Republic vs Croatia (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_13.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ Czech Republic vs Croatia (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/czech-republic-vs-croatia-27-09-2026-790878
 
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_16.jpg" group-title="Khán Đài" , 27/09 01:45 ⚽ England vs Spain (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_16.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ England vs Spain (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/england-vs-spain-27-09-2026-790879
 
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_699.jpg" group-title="Khán Đài" , 27/09 01:45 ⚽ Albania vs Belarus (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_699.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ Albania vs Belarus (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/albania-vs-belarus-27-09-2026-790926
 
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_20.jpg" group-title="Khán Đài" , 27/09 01:45 ⚽ Slovakia vs Moldova (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_20.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ Slovakia vs Moldova (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/slovakia-vs-moldova-27-09-2026-790927
 
-#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_16.jpg" group-title="Khán Đài" , 27/09 01:45 ⚽ England vs Spain (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_16.jpg" group-title="Khán Đài" , 27/09 01:45 🟡 ⚽ England vs Spain (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/england-vs-spain-27-09-2026-161009
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/OIP_uiH5uS2.jpg" group-title="Khán Đài" , 27/09 02:00 🏐 Ba Lan vs Pháp (Chưa có link — chờ cập nhật)

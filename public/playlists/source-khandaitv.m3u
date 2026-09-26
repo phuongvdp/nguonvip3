@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 01:45:12 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 01:47:31 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Khán Đài (23 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Khán Đài (24 trận) =====
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_649.jpg" group-title="Khán Đài" , 27/09 01:00 🟢 ⚽ Oman vs Saudi Arabia (Tày)
@@ -87,3 +87,6 @@ https://khandai3.link/truc-tiep/israel-vs-ireland-28-09-2026-790833
 
 #EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_21.jpg" group-title="Khán Đài" , 28/09 01:45 ⚽ Germany vs Greece (Chưa có link — chờ cập nhật)
 https://khandai3.link/truc-tiep/germany-vs-greece-28-09-2026-790882
+
+#EXTINF:-1 tvg-logo="https://khandai3.link/media/teams/logos/team_692.jpg" group-title="Khán Đài" , 28/09 01:45 ⚽ Norway vs Portugal (Chưa có link — chờ cập nhật)
+https://khandai3.link/truc-tiep/norway-vs-portugal-28-09-2026-790883

@@ -1,12 +1,9 @@
 #EXTM3U
-# Cập nhật lần cuối: 02:59:47 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 03:02:07 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Phá Làng (48 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Phá Làng (47 trận) =====
 
 # ----- Ngày 2026-09-27 -----
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260924/3c1271a9437d31009c4fe465d81cd3cf.png" group-title="Phá Làng" , 27/09 01:00 🟢 ⚽ Oman - Saudi Arabia (LÝ LINH LỰC)
-https://lilive1.eu.cc/live/cfcda7f47d63aec6f4ca7e5eb2d21623/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
-
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/78e57b771bb363598680a056a7d26c0a.png" group-title="Phá Làng" , 27/09 01:45 🟢 ⚽ North Macedonia - Switzerland (Server 1)
 https://lilive1.eu.cc/live/1ffe192a0291eb61638254962559df7a/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://phalang.live
 
@@ -31,19 +28,19 @@ https://pull.digitalcdn.net/live/bf11164d0590473b97b03362fd3f2bb6/index.m3u8|Use
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/e8b03b5c083ffa4e9179571b70c1febe.png" group-title="Phá Làng" , 27/09 03:30 🟡 ⚽ USA - Peru (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#k82rekh2znlzrep
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/4ee24366d09a9239bb2c4207a5008111.png" group-title="Phá Làng" , 27/09 04:00 ⚽ Atletico Nacional Medellin - Chapecoense - SC (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/4ee24366d09a9239bb2c4207a5008111.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ Atletico Nacional Medellin - Chapecoense - SC (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#1l4rjnhny5v6m7v
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/78f326c7941d628362757ab7100fa90e.png" group-title="Phá Làng" , 27/09 04:00 ⚽ Ejidatarios de Bonfil - Deportiva Venados II (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/78f326c7941d628362757ab7100fa90e.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ Ejidatarios de Bonfil - Deportiva Venados II (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#1l4rjnhnyl4dm7v
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/d298e8edb123d3b33a3ca6482a3405a5.png" group-title="Phá Làng" , 27/09 04:00 ⚽ Selva Canera - Zapata (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/d298e8edb123d3b33a3ca6482a3405a5.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ Selva Canera - Zapata (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#2y8m4zhv0p6zql0
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5b62256420bbf1a6c1a1ac3f56fe3483.png" group-title="Phá Làng" , 27/09 04:00 ⚽ Antequera FC - FC Iguanas (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5b62256420bbf1a6c1a1ac3f56fe3483.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ Antequera FC - FC Iguanas (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#dj2ryoh7vx1gq1z
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/46a8a3c928f0ff956dea151a9a20fff1.png" group-title="Phá Làng" , 27/09 04:00 ⚽ PDLA FC - Deportivo Yautepec FC (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/46a8a3c928f0ff956dea151a9a20fff1.png" group-title="Phá Làng" , 27/09 04:00 🟡 ⚽ PDLA FC - Deportivo Yautepec FC (Chưa có link — chờ cập nhật)
 https://phalang.live/trang-chu#l7oqdehjy3o4r51
 
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/7f961e07c13dca97fb55f0b47bf5e2b3.png" group-title="Phá Làng" , 27/09 05:00 ⚽ Santa Ana del Conde - Real Olmeca Sport (Chưa có link — chờ cập nhật)

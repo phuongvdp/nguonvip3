@@ -1,7 +1,7 @@
 #EXTM3U
-# Cập nhật lần cuối: 02:59:46 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
+# Cập nhật lần cuối: 03:02:06 27/9/2026 (giờ VN) — tự làm mới mỗi 2 phút
 
-# ===== Tất cả trận, sắp theo giờ thi đấu thực — Chuối Chiên (19 trận) =====
+# ===== Tất cả trận, sắp theo giờ thi đấu thực — Chuối Chiên (20 trận) =====
 
 # ----- Ngày 2026-09-27 -----
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125450_ce424b12.png" group-title="Chuối Chiên" , 27/09 01:45 🟢 ⚽ England vs Spain (Chuối Chao (HD))
@@ -16,7 +16,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|User-Agent=Mozilla/5.
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên" , 27/09 02:00 🟢 🏐 France vs Poland (Chuối Kem (HD))
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png" group-title="Chuối Chiên" , 27/09 04:00 ⚽ Deportivo Pereira vs Inter Bogotá (Chưa có link — chờ cập nhật)
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png" group-title="Chuối Chiên" , 27/09 04:00 🟡 ⚽ Deportivo Pereira vs Inter Bogotá (Chưa có link — chờ cập nhật)
 https://live05.chuoichientv.me/live/1549801/deportivo-pereira-vs-inter-bogota
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131606_86e503ed.png" group-title="Chuối Chiên" , 27/09 06:30 ⚽ Atlanta United FC vs New York City FC (Chưa có link — chờ cập nhật)
@@ -60,3 +60,6 @@ https://live05.chuoichientv.me/live/1569944/mallorca-vs-almeria
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_83841a8c.png" group-title="Chuối Chiên" , 27/09 22:00 ⚽ Yemen vs Qatar (Chưa có link — chờ cập nhật)
 https://live05.chuoichientv.me/live/1637934/yemen-vs-qatar
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125451_e0a7ed3f.png" group-title="Chuối Chiên" , 27/09 23:00 ⚽ Serbia vs Netherlands (Chưa có link — chờ cập nhật)
+https://live05.chuoichientv.me/live/1528896/serbia-vs-netherlands
